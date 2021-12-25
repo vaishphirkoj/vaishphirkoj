@@ -29,5 +29,5 @@ A 2nd-year student pursuing Masters in Computer Application with a passion for d
 <hr>
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/vaishphirkoj/vaishphirkoj/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
