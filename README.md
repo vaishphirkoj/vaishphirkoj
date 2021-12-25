@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Vaishnavi Phirkoj</h1>
 <h5 align="center">
-A 2nd-year student pursuing Masters in Computer Application with a passion for developing web application and working across full stack.
+A 2nd-year student pursuing Master in Computer Application with a passion for developing web application and working across full stack.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishphirkoj&label=Profile%20views&color=0e75b6&style=flat" alt="vaishphirkoj" /> </p>
 <p>
