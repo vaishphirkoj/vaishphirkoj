@@ -5,7 +5,7 @@
 <h5 align="center">
 A 2nd-year student pursuing Master in Computer Application with a passion for developing web application and working across full stack.
 </h5>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishphirkoj&label=Profile%20views&color=0e75b6&style=flat" alt="vaishphirkoj" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishphirkoj&label=Profile%20views&color=0e75b6&style=flat" alt="vaishphirkoj" /> </p>
 <p>
 <a align= "center" href="https://github.com/vaishphirkoj">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishphirkoj&theme=radical">
