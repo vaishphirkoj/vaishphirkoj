@@ -28,6 +28,4 @@ A 2nd-year student pursuing Master in Computer Application with a passion for de
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/vaishphirkoj/vaishphirkoj/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
